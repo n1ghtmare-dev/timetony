@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="images">
+    <file>jpg.jpg</file>
+    <file>pin.png</file>
+    <file>pin1.png</file>
+  </qresource>
+</RCC>
